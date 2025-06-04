@@ -9,6 +9,6 @@ export const Room =() =>{
 
         },[name])
     return (
-        <div>hi {name}</div>
+        <div className="">hi {name}</div>
     )
 }
